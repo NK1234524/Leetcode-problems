@@ -1,4 +1,7 @@
-class Leetcode_4 {
+public class Leetcode_4 {
+    public static void main(String[] args) {
+        
+    }
     public int maxProfit(int[] prices) {
         int maxprofit = 0 ;
         int buyprice = Integer.MAX_VALUE;
