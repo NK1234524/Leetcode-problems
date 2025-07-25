@@ -34,4 +34,5 @@ class Leetcode_11 {
             end--;
         }
     }
-}
+}//Time complexity O(n).
+//Space complexity O(1).
